@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "phonetestnotworkinglolmonkey",
+  "name": "phone",
   "compatibility_date": "2026-06-15",
   "observability": {
     "enabled": true
